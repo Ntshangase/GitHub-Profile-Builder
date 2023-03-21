@@ -1,5 +1,5 @@
 # Github-Profile-Builder
-A repository to help you build your best GitHub Profile
+A repository to help you build your best GitHub Profile.
 There is no need for you to spend hours searching for the repositories to help you build the best github profile for you, we have them all here!!
 
 ## Build your profile
