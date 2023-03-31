@@ -20,4 +20,3 @@ There is no need for you to spend hours searching for the repositories to help y
 | Repository Name | Description | Link |
 | --- | --- | --- |
 | Awesome-Profile-README-templates | A collection of GitHub profile README templates | [Link](https://github.com/kautukkundan/Awesome-Profile-README-templates) |
-| GitHub Profile README Generator | A tool to generate a profile README for your GitHub profile | [Link](https://rahuldkjain.github.io/gh-profile-readme-generator/) |
