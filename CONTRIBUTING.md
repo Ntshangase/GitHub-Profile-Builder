@@ -3,11 +3,10 @@ Thank you for your interest in contributing to our project! We welcome contribut
 By participating in this project, you agree to abide by our code of conduct.
 
 ## How to Contribute
-- Fork the repository.
-- Clone the forked repository to your local machine.
-- Create a new branch for your changes: git checkout -b your-branch-name
+- Go to the README.md file on the GitHub repository.
+- Click the pencil icon on the right-hand side to edit the file.
+- Create a new branch for your changes by typing a new branch name in the "Branch" field.
 - Make your changes and commit them with descriptive commit messages.
-- Push your changes to your fork: git push origin your-branch-name
 - Submit a pull request to the main repository with a clear title and description of your changes.
 - Be responsive to feedback and be prepared to make further changes if requested.
 
